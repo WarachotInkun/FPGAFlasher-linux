@@ -9,3 +9,7 @@ On Ubuntu 20.04
 $ sudo apt update
 $ sudo apt -y install xc3sprog
 ```
+Run
+```bash
+$ sudo ./flash.sh <path/to/file.bit>
+```
